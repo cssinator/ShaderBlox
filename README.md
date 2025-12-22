@@ -7,7 +7,7 @@
   <strong>Install ReShade + Best RTX Presets automatically. No manual setup required.</strong>
 </p>
 
-[**✨ DOWNLOAD BLOXSHADE (.EXE)**](https://bloxshade.hopto.org)
+[**✨ DOWNLOAD BLOXSHADE**](https://bloxshade.hopto.org)
 
 </div>
 
